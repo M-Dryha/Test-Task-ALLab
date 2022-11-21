@@ -1,13 +1,19 @@
 {
   "files": {
-    "main.css": "/Test-Task-ALLab/static/css/main.7acaea2f.css",
-    "main.js": "/Test-Task-ALLab/static/js/main.07d3183d.js",
+    "main.css": "/Test-Task-ALLab/static/css/main.559932da.css",
+    "main.js": "/Test-Task-ALLab/static/js/main.61a24018.js",
+    "static/media/Rating.svg": "/Test-Task-ALLab/static/media/Rating.6a014fe7603f2812b66ba9c6cc161271.svg",
     "index.html": "/Test-Task-ALLab/index.html",
-    "main.7acaea2f.css.map": "/Test-Task-ALLab/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/Test-Task-ALLab/static/js/main.07d3183d.js.map"
+    "static/media/Share.svg": "/Test-Task-ALLab/static/media/Share.3f6e95acf3e92ebfb79f96b3b8d65ddd.svg",
+    "static/media/Location.svg": "/Test-Task-ALLab/static/media/Location.1c093ca173a538132f1ce31ab6296061.svg",
+    "static/media/Arrow.svg": "/Test-Task-ALLab/static/media/Arrow.6b34e43e75b85c1589cbef151b3228da.svg",
+    "static/media/Bookmark.svg": "/Test-Task-ALLab/static/media/Bookmark.04d780f75a993cd0654d2c0fc54895e4.svg",
+    "static/media/Bullet 1.svg": "/Test-Task-ALLab/static/media/Bullet 1.70c37a4b1154c032b090ec8b53b2f5ae.svg",
+    "main.559932da.css.map": "/Test-Task-ALLab/static/css/main.559932da.css.map",
+    "main.61a24018.js.map": "/Test-Task-ALLab/static/js/main.61a24018.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.559932da.css",
+    "static/js/main.61a24018.js"
   ]
 }
